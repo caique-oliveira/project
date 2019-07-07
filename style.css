@@ -1,0 +1,13 @@
+/*img{
+	width: 50%;
+	height: 100vh;
+	object-fit: cover;
+}
+.img-cachorro{
+	display: flex;
+}*/
+* { margin: 0; padding: 0; }
+
+body { background-color: #222831; display: flex; justify-content: center; align-items: center; height: 100vh; }
+
+img { border: 1px solid #CDCDCD; width: 500px; height: 500px; object-fit: cover; }
